@@ -29,3 +29,18 @@ I learned about:
 
 ## Functions
 Third section of videos on python.
+<br>
+In this section I learned a lot about how functions worked.<br>
+I created a cool fizzbuzz program in python that ddint take me very long to make.
+<br>
+Also learned the difference between arguments and parameters that a lot of young coders miss.
+<br>
+I learned about:
+
+<li>Arguments</li>
+<li>Debugging</li>
+<li>Defining Functions</li>
+<li>Keyword arguments</li>
+<li>xargs</li>
+<li>xxargs</li>
+<li>Types of Functions</li>
