@@ -26,3 +26,6 @@ I learned about:
 <li>Operators</li>
 <li>Ternary Operators</li>
 <li>While Loops</li>
+
+## Functions
+Third section of videos on python.
