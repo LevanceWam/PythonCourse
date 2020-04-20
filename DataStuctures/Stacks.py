@@ -1,3 +1,4 @@
+# Follows the LIFO rule Last in First Out
 browsing_session = []
 browsing_session.append(1)
 browsing_session.append(2)
