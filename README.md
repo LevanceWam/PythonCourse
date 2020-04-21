@@ -5,7 +5,7 @@ This is a course that I am taking from the programming with mosh videos.
 ## Primitive Types
 
 First section of the videos just going over the basics of python. <br>
-I've learned about:
+This section included:
 
 
 <li>Expressions</li>
@@ -17,7 +17,7 @@ I've learned about:
 
 ## Control Flow
 Second section of the videos.<br>
-I learned about:
+This section included:
 
 <li>For Loops</li>
 <li>Nested Loops</li>
@@ -35,7 +35,7 @@ I created a cool fizzbuzz program in python that ddint take me very long to make
 
 Also learned the difference between arguments and parameters that a lot of young coders miss.
 <br>
-I learned about:
+This section included:
 
 <li>Arguments</li>
 <li>Debugging</li>
@@ -57,7 +57,7 @@ I learned to iterate through these and how to add, remove, delete and to use mor
 The exercise for this section was a interesting one I figured out a solution to the problem but I now realize it code be improved. This is great because this is one of the interview questions.
 <br>
 
-I learned about:
+This section included:
 
 <li>Accessing Items</li>
 <li>Adding and Removing Items</li>
@@ -75,3 +75,15 @@ I learned about:
 
 ## Expections
  Expections are errors exterminates the excution of a program.
+ <br>
+
+ Learned about the risk of raising your own expections in a function.
+ Slows down program greatly try to avoid it if possible.
+ <br>
+
+ This section included:
+
+<li>Handling Expections</li>
+<li>Handling Different Expections</li> 
+<li>Raising Expections</li>
+<li>With Statements</li>
