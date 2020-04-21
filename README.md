@@ -46,4 +46,29 @@ I learned about:
 <li>Types of Functions</li>
 
 ## Data Stuctures
-dd
+Fourth section of my videos on python.
+<br>
+
+In this section I learned a lot about loops, dictionaries,
+tuples and so much more.
+
+I learned to iterate through these and how to add, remove, delete and to use more of their various methods.
+
+The exercise for this section was a interesting one I figured out a solution to the problem but I now realize it code be improved. This is great because this is one of the interview questions.
+<br>
+
+I learned about:
+
+<li>Accessing Items</li>
+<li>Adding and Removing Items</li>
+<li>Arrays</li>
+<li>Dictionaries</li>
+<li>Filter Functions</li>
+<li>Map Functions</li>
+<li>Finding Items</li>
+<li>Lambda Functions</li>
+<li>List</li>
+<li>Looping List</li>
+<li>Unpacking</li>
+<li>Tuples</li>
+<li>Zip Functions</li>
