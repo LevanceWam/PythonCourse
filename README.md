@@ -72,3 +72,6 @@ I learned about:
 <li>Unpacking</li>
 <li>Tuples</li>
 <li>Zip Functions</li>
+
+## Expections
+ Expections are errors exterminates the excution of a program.
