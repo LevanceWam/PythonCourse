@@ -87,3 +87,6 @@ This section included:
 <li>Handling Different Expections</li> 
 <li>Raising Expections</li>
 <li>With Statements</li>
+
+## Classes
+ blueprint for creating new objects
