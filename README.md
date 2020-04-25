@@ -109,3 +109,13 @@ This section included:
 <li>Polymorphism</li>
 <li>Properties</li>
 <li>Creating Custom Containers</li>
+
+## Modules
+<p>Are files that have some python code. They can have:</p>
+
+<li>Classes</li>
+<li>Functions</li>
+<li>Methods</li>
+<li>Attributes and Etc.</li>
+
+<p>We can also compile our python files.</p>
