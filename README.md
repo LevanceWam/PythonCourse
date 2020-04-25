@@ -111,11 +111,16 @@ This section included:
 <li>Creating Custom Containers</li>
 
 ## Modules
-<p>Are files that have some python code. They can have:</p>
+<p> Are files that have some python code. They can have:</p>
 
 <li>Classes</li>
 <li>Functions</li>
 <li>Methods</li>
 <li>Attributes and Etc.</li>
+<br>
 
-<p>We can also compile our python files.</p>
+<p> We can also compile our python files. By compiling the files we are speeding up the modules load time. This does not speed up the file itself though. Also when you update the file Python will go and check the compiler and update it for you when it runs.</p>
+
+<p>Packages in python  are containers for 1 or more modules.</p>
+
+<p>When you add ```__init__.py``` python will look at the folder as a package.</p>
