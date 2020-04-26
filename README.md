@@ -123,5 +123,6 @@ This section included:
 
 <p>Packages in python  are containers for 1 or more modules.</p>
 
-<p>When you add ```__init__.py``` python will look at the folder as a package.</p>
+<p>When you add  <b>__init__.py </b>  python will look at the folder as a package.</p>
 
+## Python Standard Library 
