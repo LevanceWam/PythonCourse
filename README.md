@@ -132,6 +132,7 @@ This section included:
 <p>I learned also how to make csv files right inside of python, and how to use SQLite and Json</p>
 
 <p>This Section included:</p>
+<br>
 
 <li>Sending Emails</li>
 <li>Opening Browsers with Python</li>
@@ -140,3 +141,5 @@ This section included:
 <li>SQLite</li>
 <li>Zip Files</li>
 <li>Generating Random Values</li>
+
+## Python Packaging Index
