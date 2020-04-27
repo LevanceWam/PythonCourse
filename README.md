@@ -126,3 +126,17 @@ This section included:
 <p>When you add  <b>__init__.py </b>  python will look at the folder as a package.</p>
 
 ## Python Standard Library 
+
+<p>In this section I learned a lot about the Python library and what it has to offer. I've practice with and learned a lot from packages such as Time Delta, webbrowser and so much more.</p>
+
+<p>I learned also how to make csv files right inside of python, and how to use SQLite and Json</p>
+
+<p>This Section included:</p>
+
+<li>Sending Emails</li>
+<li>Opening Browsers with Python</li>
+<li>Working with CSV</li>
+<li>Working with JSON</li>
+<li>SQLite</li>
+<li>Zip Files</li>
+<li>Generating Random Values</li>
