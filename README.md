@@ -143,3 +143,6 @@ This section included:
 <li>Generating Random Values</li>
 
 ## Python Packaging Index
+pypi.org
+pip3 install
+pip3 install --upgrade pip
