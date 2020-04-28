@@ -13,6 +13,7 @@
 <li><a href="#section7">Modules</a></li>
 <li><a href="#section8">Python Standard Library</a></li>
 <li><a href="#section9">Python Library</a></li>
+<li><a href="#section10">Popular Python Packages</a></li>
 
 
 <h2 id="section1">Primitive Types</h2>
@@ -165,3 +166,5 @@ pypi.org
 pip3 install
 pip3 install --upgrade pip
 ```
+
+<h2 id="section10">Popular Python Packages</h2>
