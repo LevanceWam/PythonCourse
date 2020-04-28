@@ -1,8 +1,21 @@
 # Python Course
 
-This is a course that I am taking from the programming with mosh videos.
+<p>This is a course that I am taking from the programming with mosh videos.</p>
 
-## Primitive Types
+<p>Here are some quick links to navigate to a specific section<p>
+
+<li><a href="#section1">Primitive Types</a></li>
+<li><a href="#section2">Control Flow</a></li>
+<li><a href="#section3">Functions</a></li>
+<li><a href="#section4">Data Stuctures</a></li>
+<li><a href="#section5">Expections</a></li>
+<li><a href="#section6">Classes</a></li>
+<li><a href="#section7">Modules</a></li>
+<li><a href="#section8">Python Standard Library</a></li>
+<li><a href="#section9">Python Library</a></li>
+
+
+<h2 id="section1">Primitive Types</h2>
 
 First section of the videos just going over the basics of python. <br>
 This section included:
@@ -15,7 +28,7 @@ This section included:
 <li>Strings</li>
 
 
-## Control Flow
+<h2 id="section2">Control Flow</h2>
 Second section of the videos.<br>
 This section included:
 
@@ -27,7 +40,7 @@ This section included:
 <li>Ternary Operators</li>
 <li>While Loops</li>
 
-## Functions
+<h2 id="section3">Functions</h2>
 Third section of videos on python.
 <br>
 In this section I learned a lot about how functions worked.
@@ -45,7 +58,7 @@ This section included:
 <li>xxargs</li>
 <li>Types of Functions</li>
 
-## Data Stuctures
+<h2 id="section4">Data Stuctures</h2>
 Fourth section of my videos on python.
 <br>
 
@@ -73,7 +86,7 @@ This section included:
 <li>Tuples</li>
 <li>Zip Functions</li>
 
-## Expections
+<h2 id="section5">Expections</h2>
  Expections are errors exterminates the excution of a program.
  <br>
 
@@ -88,7 +101,7 @@ This section included:
 <li>Raising Expections</li>
 <li>With Statements</li>
 
-## Classes
+<h2 id="section6">Classes</h2>
  Are the blueprint for creating new objects
 
  <p>Classes can Inherit methods from each other to help keep the code dry.</p>
@@ -110,7 +123,7 @@ This section included:
 <li>Properties</li>
 <li>Creating Custom Containers</li>
 
-## Modules
+<h2 id="section7">Modules</h2>
 <p> Are files that have some python code. They can have:</p>
 
 <li>Classes</li>
@@ -125,7 +138,7 @@ This section included:
 
 <p>When you add  <b>__init__.py </b>  python will look at the folder as a package.</p>
 
-## Python Standard Library 
+<h2 id="section8">Python Standard Library</h2> 
 
 <p>In this section I learned a lot about the Python library and what it has to offer. I've practice with and learned a lot from packages such as Time Delta, webbrowser and so much more.</p>
 
@@ -142,10 +155,13 @@ This section included:
 <li>Zip Files</li>
 <li>Generating Random Values</li>
 
-## Python Packaging Index
+<h2 id="section9">Python Packaging Index</h2>
+<p>In this section I learned a lot of the basics of using pip3 and all the awesome things I can do with it.</p>
+
+<p>I learned a lot of useful terminal commands as shown below, learned how to updated my dependencies and create a virtual enviroment.</p>
+
+```
 pypi.org
 pip3 install
 pip3 install --upgrade pip
-
-<p>In this section I learned a lot of the basics of using pip3 and all the awesome things I can do with it.</p>
-
+```
