@@ -146,3 +146,6 @@ This section included:
 pypi.org
 pip3 install
 pip3 install --upgrade pip
+
+<p>In this section I learned a lot of the basics of using pip3 and all the awesome things I can do with it.</p>
+
