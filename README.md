@@ -170,3 +170,6 @@ pip3 install --upgrade pip
 <h2 id="section10">Popular Python Packages</h2>
 
 <p>In this section I will be learning about Popular packages in python and learning about some APIs </p>
+
+Tools Needed:
+<li>Yelp Api</li>
