@@ -173,6 +173,7 @@ pip3 install --upgrade pip
 
 Tools Needed:
 <li>Yelp Api</li>
+<li>.gitignore</li>
 
 
 ```
