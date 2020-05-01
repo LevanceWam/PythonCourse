@@ -173,3 +173,10 @@ pip3 install --upgrade pip
 
 Tools Needed:
 <li>Yelp Api</li>
+
+
+```
+pipenv install request
+pipenv install pylint --dev
+pipenv install autopep8 --dev
+```
