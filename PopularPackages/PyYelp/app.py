@@ -1,9 +1,9 @@
 import requests
+from PopularPackages.PyYelp import config
 
 url = "https://api.yelp.com/v3/businesses/search"
-api_key = "Place your api key here"
 headers = {
-    "Authorization": "Bearer " + api_key
+    "Authorization": "Bearer " + config.api_key
 }
 # here we are setting up the parameters to look for the location and the types of businesses we want to find
 params = {
