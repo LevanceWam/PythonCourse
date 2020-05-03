@@ -204,8 +204,16 @@ pipenv install selenium
 pipenv install openpyxl
 pipenv install pypdf2
 ```
+<br>
 
 <p>This section Included:</p>
+<li>Creating Virtual Machines</li>
+<li>Working with Excel Spreadsheets</li>
+<li>Browser Automation</li>
+<li>Sending Text Messages using python</li>
+<li>Using Numpy</li>
+<li>Using Yelp Api</li>
+
 <br>
 
 
