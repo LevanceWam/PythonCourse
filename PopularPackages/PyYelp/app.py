@@ -1,5 +1,5 @@
 import requests
-from PopularPackages.PyYelp import config
+import config
 
 url = "https://api.yelp.com/v3/businesses/search"
 headers = {

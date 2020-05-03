@@ -12,6 +12,7 @@ requests = "*"
 twilio = "*"
 beautifulsoup4 = "*"
 selenium = "*"
+pypdf2 = "*"
 
 [requires]
 python_version = "3.7"
