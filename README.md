@@ -13,6 +13,7 @@
 <li><a href="#section7">Modules</a></li>
 <li><a href="#section8">Python Standard Library</a></li>
 <li><a href="#section9">Python Library</a></li>
+<li><a href="#section10">Popular Python Packages</a></li>
 
 
 <h2 id="section1">Primitive Types</h2>
@@ -165,3 +166,46 @@ pypi.org
 pip3 install
 pip3 install --upgrade pip
 ```
+
+<h2 id="section10">Popular Python Packages</h2>
+
+<p>In this section I will be learning about Popular packages in python and learning about some APIs </p>
+
+<p><strong>HEADS UP!</strong> Majority of this work was done in a virtual machine and if you are not comfortable or don't know how to use virtual machines you can try to install the packages locally by using pip3 (mac) or pip (windows)</p>
+
+<p><strong>Also</strong> if you run into a issue with vscode where you use the code runner and it says it can not find the module you can run it by typing the the command below in the terminal either in vscode or other terminals.</p>
+
+```
+Mac:
+python3 "nameOfFile.py"
+
+Windows:
+python "nameOfFile.py"
+```
+
+Tools Needed:
+<li>Yelp Api</li>
+<li>Twilio</li>
+<li>Selenium</li>
+<li>Numpy</li>
+<li>Openpyxl</li>
+<li>Pypdf</li>
+<li>Beautifulsoup</li>
+<li>.gitignore</li>
+
+
+```
+pipenv install request
+pipenv install pylint --dev
+pipenv install autopep8 --dev
+pipenv install twilio
+pipenv install numpy
+pipenv install selenium
+pipenv install openpyxl
+pipenv install pypdf2
+```
+
+<p>This section Included:</p>
+<br>
+
+
