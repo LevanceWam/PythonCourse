@@ -14,6 +14,7 @@
 <li><a href="#section8">Python Standard Library</a></li>
 <li><a href="#section9">Python Library</a></li>
 <li><a href="#section10">Popular Python Packages</a></li>
+<li><a href="#section11">Django</a></li>
 
 
 <h2 id="section1">Primitive Types</h2>
@@ -216,4 +217,4 @@ pipenv install pypdf2
 
 <br>
 
-
+<h2 id="section11">Django</h2>
