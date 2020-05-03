@@ -13,6 +13,7 @@ twilio = "*"
 beautifulsoup4 = "*"
 selenium = "*"
 pypdf2 = "*"
+openpyxl = "*"
 
 [requires]
 python_version = "3.7"
