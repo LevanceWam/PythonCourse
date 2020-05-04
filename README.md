@@ -237,3 +237,5 @@ python3 manage.py createsuperuser
 python3 manage.py sqlmigrate movies 0001
 
 ```
+
+<p><strong>Very Important Information</strong>  When making this project please use django versions higher than 2.1. There is an exception thrown when youn are trying to add to the database and it is only in this version. if you have to update please delete you DBSqlite file and run your migrations all over again</p>
