@@ -225,4 +225,6 @@ pipenv shell
 jango-admin startproject "Project name" .
 python3 manage.py server
 python3 manage.py startapp movies
+python3 manage.py makemigrations
+python3 manage.py migrate
 ```
