@@ -46,7 +46,7 @@ This section included:
 Third section of videos on python.
 <br>
 In this section I learned a lot about how functions worked.
-I created a cool fizzbuzz program in python that ddint take me very long to make.
+I created a cool fizzbuzz program in python that didn't take me very long to make.
 
 Also learned the difference between arguments and parameters that a lot of young coders miss.
 <br>
@@ -219,6 +219,7 @@ pipenv install pypdf2
 
 <h2 id="section11">Django</h2>
 <p> the "." is to open it in the current directory)</p>
+
 ```
 pipenv install django==2.1
 pipenv shell
@@ -227,6 +228,7 @@ python3 manage.py server
 python3 manage.py startapp movies
 python3 manage.py makemigrations
 python3 manage.py migrate
+python3 manage.py createsuperuser
 ```
 
 <p>This command will let you see the table commands used to make the table</p>
