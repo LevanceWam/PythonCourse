@@ -4,17 +4,8 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
-pylint = "*"
-autopep8 = "*"
 
 [packages]
-requests = "*"
-twilio = "*"
-beautifulsoup4 = "*"
-selenium = "*"
-pypdf2 = "*"
-openpyxl = "*"
-numpy = "*"
 django = "==2.1"
 
 [requires]

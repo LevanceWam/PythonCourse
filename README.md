@@ -218,3 +218,9 @@ pipenv install pypdf2
 <br>
 
 <h2 id="section11">Django</h2>
+
+```
+pipenv install django==2.1
+pipenv shell
+jango-admin startproject "Project name" .(is to open it in the current directory)
+```
