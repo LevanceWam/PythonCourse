@@ -228,3 +228,10 @@ python3 manage.py startapp movies
 python3 manage.py makemigrations
 python3 manage.py migrate
 ```
+
+<p>This command will let you see the table commands used to make the table</p>
+
+```
+python3 manage.py sqlmigrate movies 0001
+
+```
