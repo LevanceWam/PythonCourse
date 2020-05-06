@@ -221,7 +221,7 @@ pipenv install pypdf2
 <p> the "." is to open it in the current directory)</p>
 
 ```
-pipenv install django==2.1
+pipenv install django==2.1.5
 pipenv shell
 jango-admin startproject "Project name" .
 python3 manage.py server
