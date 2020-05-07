@@ -218,6 +218,7 @@ pipenv install pypdf2
 <br>
 
 <h2 id="section11">Django</h2>
+<p>Welcome to my django movie project</p>
 <p> the "." is to open it in the current directory)</p>
 
 ```
