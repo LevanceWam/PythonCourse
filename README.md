@@ -229,6 +229,9 @@ python3 manage.py startapp movies
 python3 manage.py makemigrations
 python3 manage.py migrate
 python3 manage.py createsuperuser
+pipenv install gunicorn
+heruko login
+heruko create 'NameOfApp'
 ```
 
 <p>This command will let you see the table commands used to make the table</p>
