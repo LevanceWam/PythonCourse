@@ -218,7 +218,10 @@ pipenv install pypdf2
 <br>
 
 <h2 id="section11">Django</h2>
+<a href='https://gentle-depths-43829.herokuapp.com/'>WamBuster</a>
 <p>Welcome to my django movie project</p>
+<p>This movie project is being used to demostrate the ability to contect to heroku, connecting to databases and adding bootstrap to a django project.</p>
+<p>I plan on coming back to this project and making it nicer.</p>
 <p> the "." is to open it in the current directory)</p>
 
 ```
