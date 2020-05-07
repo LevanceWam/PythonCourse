@@ -1,4 +1,4 @@
-# Python Course
+# <h1 id=home>Python Course</h1>
 
 <p>This is a course that I am taking from the programming with mosh videos.</p>
 
@@ -19,10 +19,9 @@
 
 <h2 id="section1">Primitive Types</h2>
 
-First section of the videos just going over the basics of python. <br>
-This section included:
-
-
+<p>First section of the videos just going over the basics of python.</p>
+<br>
+<p>This section included:</p>
 <li>Expressions</li>
 <li>Pylint</li>
 <li>Syntax</li>
@@ -31,9 +30,9 @@ This section included:
 
 
 <h2 id="section2">Control Flow</h2>
-Second section of the videos.<br>
-This section included:
-
+<p>Second section of the videos.</p>
+<br>
+<p>This section included:</p>
 <li>For Loops</li>
 <li>Nested Loops</li>
 <li>Conditionals</li>
@@ -41,17 +40,17 @@ This section included:
 <li>Operators</li>
 <li>Ternary Operators</li>
 <li>While Loops</li>
+<a href="home">Back to Top</a>
 
 <h2 id="section3">Functions</h2>
-Third section of videos on python.
+<p>Third section of videos on python.</p>
 <br>
-In this section I learned a lot about how functions worked.
-I created a cool fizzbuzz program in python that didn't take me very long to make.
+<p>In this section I learned a lot about how functions worked.</p>
+<p>I created a cool fizzbuzz program in python that didn't take me very long to make.</p>
 
-Also learned the difference between arguments and parameters that a lot of young coders miss.
+<p>Also learned the difference between arguments and parameters that a lot of young coders miss.</p>
 <br>
-This section included:
-
+<p>This section included:</p>
 <li>Arguments</li>
 <li>Debugging</li>
 <li>Defining Functions</li>
@@ -61,18 +60,17 @@ This section included:
 <li>Types of Functions</li>
 
 <h2 id="section4">Data Stuctures</h2>
-Fourth section of my videos on python.
+<p>Fourth section of my videos on python.</p>
 <br>
 
-In this section I learned a lot about loops, dictionaries,
-tuples and so much more.
+<p>In this section I learned a lot about loops, dictionaries, tuples and so much more.</p>
 
-I learned to iterate through these and how to add, remove, delete and to use more of their various methods.
+<p>I learned to iterate through these and how to add, remove, delete and to use more of their various methods.</p>
 
-The exercise for this section was a interesting one I figured out a solution to the problem but I now realize it code be improved. This is great because this is one of the interview questions.
+<p>The exercise for this section was a interesting one I figured out a solution to the problem but I now realize it code be improved. This is great because this is one of the interview questions.</p>
 <br>
 
-This section included:
+<p>This section included:</p>
 
 <li>Accessing Items</li>
 <li>Adding and Removing Items</li>
@@ -89,11 +87,11 @@ This section included:
 <li>Zip Functions</li>
 
 <h2 id="section5">Expections</h2>
- Expections are errors exterminates the excution of a program.
+ <p>Expections are errors exterminates the excution of a program.</p>
  <br>
 
- Learned about the risk of raising your own expections in a function.
- Slows down program greatly try to avoid it if possible.
+ <p>Learned about the risk of raising your own expections in a function.</p>
+ <p>Slows down program greatly try to avoid it if possible.</p>
  <br>
 
  This section included:
@@ -113,7 +111,7 @@ This section included:
 <p>We also want to be careful having multiple classes going of one class. It is ok to have anywhere from 2 - 3 going of one class otherwise you'll start to see you are having classes to have classes.</p>
 
 
-This section included:
+<p>This section included:</p>
 <li>Arithmetic Operators</li>
 <li>Classes</li>
 <li>Constructors</li>
