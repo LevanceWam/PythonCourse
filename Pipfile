@@ -16,6 +16,8 @@ pypdf2 = "*"
 openpyxl = "*"
 numpy = "*"
 django = "==2.1"
+django-tastypie = "*"
+pylint-django = "*"
 
 [requires]
 python_version = "3.7"
