@@ -231,7 +231,12 @@ python3 manage.py migrate
 python3 manage.py createsuperuser
 pipenv install gunicorn
 heruko login
-heruko create 'NameOfApp'
+heruko create
+git init
+git add .
+git push heroku master
+heroku ps:scale web=1
+heroku open
 ```
 
 <p>This command will let you see the table commands used to make the table</p>

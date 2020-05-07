@@ -25,7 +25,9 @@ SECRET_KEY = '99(+l+r2@xyn4$nmlksv_@u3kjvg**clzv3ahzng74dgwa9u^d'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'gentle-depths-43829.herokuapp.com'
+]
 
 
 # Application definition
