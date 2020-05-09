@@ -40,7 +40,7 @@
 <li>Operators</li>
 <li>Ternary Operators</li>
 <li>While Loops</li>
-<a href="#home" style="align: right;">Back to Top</a>
+<a href="#home">Back to Top</a>
 
 <h2 id="section3">Functions</h2>
 <p>Third section of videos on python.</p>
