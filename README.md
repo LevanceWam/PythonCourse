@@ -269,6 +269,16 @@ python3 manage.py sqlmigrate movies 0001
 <a href="#home">Back to Top</a>
 
 <h2 id="section12">Machine Learning</h2>
+Tools Needed:
+<li>Anaconda</li>
+<li>Jupyter</li>
+
+
+<p>To start your jupyter server you need to type this code in your terminal:</p>
+
+```
+jupyter notebook
+```
 
 
 <a href="#home">Back to Top</a>
