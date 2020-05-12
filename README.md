@@ -15,6 +15,7 @@
 <li><a href="#section9">Python Library</a></li>
 <li><a href="#section10">Popular Python Packages</a></li>
 <li><a href="#section11">Django</a></li>
+<li><a href ="#section12">Machine Learning</a></li>
 
 
 <h2 id="section1">Primitive Types</h2>
@@ -58,6 +59,7 @@
 <li>xargs</li>
 <li>xxargs</li>
 <li>Types of Functions</li>
+<a href="#home">Back to Top</a>
 
 <h2 id="section4">Data Stuctures</h2>
 <p>Fourth section of my videos on python.</p>
@@ -86,6 +88,8 @@
 <li>Tuples</li>
 <li>Zip Functions</li>
 
+<a href="#home">Back to Top</a>
+
 <h2 id="section5">Expections</h2>
  <p>Expections are errors exterminates the excution of a program.</p>
  <br>
@@ -100,6 +104,8 @@
 <li>Handling Different Expections</li> 
 <li>Raising Expections</li>
 <li>With Statements</li>
+
+<a href="#home">Back to Top</a>
 
 <h2 id="section6">Classes</h2>
  Are the blueprint for creating new objects
@@ -123,6 +129,8 @@
 <li>Properties</li>
 <li>Creating Custom Containers</li>
 
+<a href="#home">Back to Top</a>
+
 <h2 id="section7">Modules</h2>
 <p> Are files that have some python code. They can have:</p>
 
@@ -137,6 +145,8 @@
 <p>Packages in python  are containers for 1 or more modules.</p>
 
 <p>When you add  <b>__init__.py </b>  python will look at the folder as a package.</p>
+
+<a href="#home">Back to Top</a>
 
 <h2 id="section8">Python Standard Library</h2> 
 
@@ -155,6 +165,8 @@
 <li>Zip Files</li>
 <li>Generating Random Values</li>
 
+<a href="#home">Back to Top</a>
+
 <h2 id="section9">Python Packaging Index</h2>
 <p>In this section I learned a lot of the basics of using pip3 and all the awesome things I can do with it.</p>
 
@@ -165,6 +177,8 @@ pypi.org
 pip3 install
 pip3 install --upgrade pip
 ```
+
+<a href="#home">Back to Top</a>
 
 <h2 id="section10">Popular Python Packages</h2>
 
@@ -215,6 +229,8 @@ pipenv install pypdf2
 
 <br>
 
+<a href="#home">Back to Top</a>
+
 <h2 id="section11">Django</h2>
 <a href='https://gentle-depths-43829.herokuapp.com/'>WamBuster</a>
 <p>Welcome to my django movie project</p>
@@ -249,3 +265,20 @@ python3 manage.py sqlmigrate movies 0001
 ```
 
 <p><strong>Very Important Information</strong>  When making this project please use django versions higher than 2.1. There is an exception thrown when youn are trying to add to the database and it is only in this version. if you have to update please delete you DBSqlite file and run your migrations all over again</p>
+
+<a href="#home">Back to Top</a>
+
+<h2 id="section12">Machine Learning</h2>
+Tools Needed:
+<li>Anaconda</li>
+<li>Jupyter</li>
+
+
+<p>To start your jupyter server you need to type this code in your terminal:</p>
+
+```
+jupyter notebook
+```
+
+
+<a href="#home">Back to Top</a>
