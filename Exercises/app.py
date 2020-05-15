@@ -28,6 +28,7 @@ print(f"There are {lowers} lowercase letters in the file.")
 cap_letters = 0
 low_letters = 0
 sentence = "".join(random.choices(string.ascii_letters, k=20))
+print(sentence)
 
 for caps in sentence:
     if caps.isupper():
