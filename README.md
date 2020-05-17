@@ -15,7 +15,8 @@
 <li><a href="#section9">Python Library</a></li>
 <li><a href="#section10">Popular Python Packages</a></li>
 <li><a href="#section11">Django</a></li>
-<li><a href ="#section12">Machine Learning</a></li>
+<li><a href="#section12">Machine Learning</a></li>
+<li><a href="#section13">Python Questions</a></li>
 
 
 <h2 id="section1">Primitive Types</h2>
@@ -269,6 +270,8 @@ python3 manage.py sqlmigrate movies 0001
 <a href="#home">Back to Top</a>
 
 <h2 id="section12">Machine Learning</h2>
+<p>In this section I Learned some basic Machine learning skills.</p>
+<p> We made a the machine predict based on our age what kind of music we listen to.</p>
 Tools Needed:
 <li>Anaconda</li>
 <li>Jupyter</li>
@@ -282,3 +285,14 @@ jupyter notebook
 
 
 <a href="#home">Back to Top</a>
+
+<h2 id="section13">Python Questions</h2>
+<p>In the Exercises folder we can find some common programs that are asked to be built for a job interview. I though it would be a great way to challenge myself and apply the skills I acquired in the previous month.</p>
+
+<p>Programs made so far:</p>
+<li>Fibonacci Sequence</li>
+<li>Palindrome Checker</li>
+<li>Star Triangle</li>
+<li>Prime Number</li>
+<li>Capital Letter Counter</li>
+<li>Numerical Datasheet Sorter</li>
