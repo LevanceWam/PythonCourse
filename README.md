@@ -296,3 +296,5 @@ jupyter notebook
 <li>Prime Number</li>
 <li>Capital Letter Counter</li>
 <li>Numerical Datasheet Sorter</li>
+
+<p>In the Python Questions word doc there are questions that I found from medium.com that I am answering to test the knowledge that I have on python</p>
