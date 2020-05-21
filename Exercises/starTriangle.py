@@ -2,7 +2,7 @@
 # by Levance Wamley
 
 # we are setting the amount of rows we want to have
-row = 8
+row = 4
 # This is the for loop that controls the rows being made.
 for x in range(0, row):
     # So here we are making the columns this
