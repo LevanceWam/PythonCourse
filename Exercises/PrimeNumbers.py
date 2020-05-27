@@ -2,7 +2,7 @@
 # By Levance,
 
 # First we will define a start and end for the program to check.
-start = 5
+start = 2
 end = 25
 # We create a for loop to iterate through the numbers defined.
 # we add a one to the end so that number will show.
