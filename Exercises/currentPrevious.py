@@ -1,6 +1,6 @@
 # Write a program that given the range will iterate from start to finish
 # Showing the current number , previous number and the sum of the two.
-# By Levance Wamley
+# By Levance Wamley jr
 
 
 def sum(limit):

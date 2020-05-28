@@ -1,5 +1,5 @@
 # Let's write a program that will count the amount of capital letters in a file
-# By Levance Wamley
+# By Levance Wamley jr
 import random
 import string
 

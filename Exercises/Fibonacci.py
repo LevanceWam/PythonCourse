@@ -1,5 +1,5 @@
 # Create program that follows a Fibonacci sequence.
-# By Levance Wamley
+# By Levance Wamley jr
 
 # Let's create a function that can handle all of the work
 

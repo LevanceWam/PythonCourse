@@ -1,5 +1,5 @@
 # Create a program that will sort a numerical Datasheet
-# By Levance Wamley
+# By Levance Wamley jr
 
 my_list = [45, 22, 11, 46, 7, 4, 67, 9]
 # The code below is ment to iterate till the biggest number is at the end

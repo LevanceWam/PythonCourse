@@ -1,6 +1,6 @@
 # create a program that will accept a string and display
 # the characters that have a positive index number
-# By Levance Wamley
+# By Levance Wamley jr
 
 
 def stringIndex(string):

@@ -1,6 +1,7 @@
 # create a program that takes 2 integers from user output
 # then return the product
 # if it the product is over 1000 return the sum instead
+# By Levance Wamley jr
 
 num = int(input('Enter First number: '))
 num2 = int(input('Enter Second number: '))

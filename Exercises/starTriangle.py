@@ -1,5 +1,5 @@
 # create a program that will make a star triangle
-# by Levance Wamley
+# by Levance Wamley jr
 
 # we are setting the amount of rows we want to have
 rows = 8

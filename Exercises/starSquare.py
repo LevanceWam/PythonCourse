@@ -1,5 +1,5 @@
 # create a program to create a square
-# by Levance Wamley
+# by Levance Wamley jr
 
 
 def square(rows):

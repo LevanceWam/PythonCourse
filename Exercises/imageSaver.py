@@ -1,5 +1,5 @@
 # going to make a program that saves a image from the internet
-# By Levance Wamley
+# By Levance Wamley jr
 
 import urllib.request
 

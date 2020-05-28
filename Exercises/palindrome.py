@@ -1,5 +1,5 @@
 # Create a program that checks to see if a string is palindrome
-# By Levance Wamley
+# By Levance Wamley jr
 
 
 def palidrome(word):

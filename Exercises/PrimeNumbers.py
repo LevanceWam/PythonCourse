@@ -1,5 +1,5 @@
 # Create a Program that will give you all of the prime #'s in a list.
-# By Levance,
+# By Levance Wamley jr
 
 # First we will define a start and end for the program to check.
 start = 2
