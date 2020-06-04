@@ -1,6 +1,6 @@
 # create a function that takes a decimal/float and shows only
 # 2 numbers after the decimal
-# by Levance Wamley
+# by Levance Wamley jr
 
 
 def shortDecimal(n):
