@@ -13,4 +13,4 @@ def outerFunction(a, b):
     print(newValue + 5)
 
 
-outerFunction(2, 2)
+outerFunction(5, 2)
