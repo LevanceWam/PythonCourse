@@ -14,11 +14,13 @@ def OAuth():
         return auth
 
     except Exception:
-        return None
+        return 'It broke'
 
 
 oauth = OAuth()
 api = tweepy.API(oauth)
 
-api.update_status('My first tweet Using Python! More on the way.')
+# api.update_status('Second tweet Using Python and I uploaded an image.')
+api.update_with_media(
+    'pup.jpeg', status="Second tweet using Python it's a puppy")
 print('Tweet is posted.')
