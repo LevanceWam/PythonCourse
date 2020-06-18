@@ -18,6 +18,7 @@ numpy = "*"
 django = "==2.1"
 django-tastypie = "*"
 pylint-django = "*"
+tweepy = "*"
 
 [requires]
 python_version = "3.7"
