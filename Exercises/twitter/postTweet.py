@@ -9,6 +9,7 @@ import config
 
 def OAuth():
     try:
+        # Here we are setting up the the authorization so our program can
         auth = tweepy.OAuthHandler(config.API_Key, config.API_Secret)
         auth.set_access_token(config.access_token, config.access_secret)
         return auth
