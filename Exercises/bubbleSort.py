@@ -16,8 +16,10 @@ numbers = [5, 2, 1, 7, 9, 0, 4]
 
 
 def bubbleSort(array):
+    # in python I need to remember that the way I implement this program that range returns a sequence of numbers starting from 0
     for i in range(len(array) - 1):
         for j in range(len(array) - 1):
+            # so here we are targeting the first element because list indexes start at 0 so j is at 0 and then for the number we compare it against we add 1 to it
             if array[j] > array[j + 1]:
                 array[j], array[j+1] = array[j+1], array[j]
 
